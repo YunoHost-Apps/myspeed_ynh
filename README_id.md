@@ -24,7 +24,7 @@ MySpeed is a speed test analysis software that stores the speed of your internet
 
 ## Tangkapan Layar
 
-![Tangkapan Layar pada MySpeed](./doc/screenshots/example.jpg)
+![Tangkapan Layar pada MySpeed](./doc/screenshots/screenshot.png)
 
 ## Dokumentasi dan sumber daya
 

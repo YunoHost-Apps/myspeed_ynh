@@ -24,7 +24,7 @@ MySpeed is a speed test analysis software that stores the speed of your internet
 
 ## Schermafdrukken
 
-![Schermafdrukken van MySpeed](./doc/screenshots/example.jpg)
+![Schermafdrukken van MySpeed](./doc/screenshots/screenshot.png)
 
 ## Documentatie en bronnen
 

@@ -22,7 +22,7 @@ MySpeed est un logiciel d'analyse de test de vitesse qui enregistre la vitesse d
 
 ## Captures d’écran
 
-![Capture d’écran de MySpeed](./doc/screenshots/example.jpg)
+![Capture d’écran de MySpeed](./doc/screenshots/screenshot.png)
 
 ## Documentations et ressources
 
