@@ -58,3 +58,11 @@ ram.runtime = "50M"
 
     [resources.ports]
     main.default = 5216
+
+
+    [resources.apt]
+    packages = "mariadb-server"
+
+    [resources.database]
+    type = "mysql"
+    
