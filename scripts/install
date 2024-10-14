@@ -29,7 +29,7 @@ ynh_config_add_systemd
 yunohost service add "$app" --description="Speed test analysis software" --log="/var/log/$app/$app.log"
 
 #=================================================
-# INSTALL DODOC
+# INSTALL MYSPEED
 #=================================================
 ynh_script_progression "Installing the app..."
 
@@ -42,7 +42,7 @@ popd
 #=================================================
 ynh_script_progression "Starting $app's systemd service..."
 
-ynh_systemctl --service="$app" --action="start" --log_path="systemd" --wait_until="was executed successfully"
+ynh_systemctl --service="$app" --action="start" --log_path="systemd" #--wait_until="was executed successfully"
 
 #=================================================
 # END OF SCRIPT
