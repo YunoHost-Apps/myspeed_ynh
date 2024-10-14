@@ -16,6 +16,7 @@ license = "MIT"
 website = "https://myspeed.dev/"
 admindoc = "https://docs.myspeed.dev/"
 code = "https://github.com/gnmyt/myspeed"
+fund = "https://ko-fi.com/gnmyt"
 
 [integration]
 yunohost = ">= 11.2.30"
