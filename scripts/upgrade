@@ -22,16 +22,16 @@ ynh_nodejs_install
 #=================================================
 ynh_script_progression "Upgrading source files..."
 
-ynh_setup_source --dest_dir="$install_dir" --full_replace
+ynh_setup_source --dest_dir="$install_dir" --full_replace --keep="data"
 
 #=================================================
-# INSTALL DODOC
+# INSTALL MYSPEED
 #=================================================
 ynh_script_progression "Installing $app..."
 
-#pushd "$install_dir"
-#	ynh_hide_warnings ynh_exec_as_app npm install
-#popd
+pushd "$install_dir"
+	ynh_hide_warnings ynh_exec_as_app npm install
+popd
 
 #=================================================
 # REAPPLY SYSTEM CONFIGURATIONS
@@ -49,7 +49,7 @@ yunohost service add "$app" --description="Speed test analysis software" --log="
 #=================================================
 ynh_script_progression "Starting $app's systemd service..."
 
-ynh_systemctl --service="$app" --action="start" --log_path="systemd" --wait_until="was executed successfully"
+ynh_systemctl --service="$app" --action="start" --log_path="systemd" #--wait_until="was executed successfully"
 
 #=================================================
 # END OF SCRIPT

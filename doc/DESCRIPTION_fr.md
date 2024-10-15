@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+MySpeed est un logiciel d'analyse de test de vitesse qui enregistre la vitesse de votre connexion Internet pendant 30 jours maximum. Cela peut également être utile si vous souhaitez savoir quand votre réseau peut subir des pertes ou si vous souhaitez vérifier si votre connexion Internet correspond aux valeurs réservées dans votre contrat.

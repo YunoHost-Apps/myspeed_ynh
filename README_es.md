@@ -16,16 +16,15 @@ No se debe editar a mano.
 
 ## Descripción general
 
-This is a dummy description of this app features
+MySpeed is a speed test analysis software that stores the speed of your internet for up to 30 days. This can also be useful if you want to know when your network might have drops or if you want to check if your internet matches the booked values from your contract.
+
 
 
 **Versión actual:** 1.0.9~ynh1
 
-**Demo:** <https://demo.example.com>
-
 ## Capturas
 
-![Captura de MySpeed](./doc/screenshots/example.jpg)
+![Captura de MySpeed](./doc/screenshots/screenshot.png)
 
 ## Documentaciones y recursos
 

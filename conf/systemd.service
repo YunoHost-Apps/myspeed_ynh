@@ -12,8 +12,6 @@ WorkingDirectory=__INSTALL_DIR__/
 ExecStart=__NODEJS_DIR__/node server
 Restart=on-failure
 
-
-
 ### Depending on specificities of your service/app, you may need to tweak these
 ### .. but this should be a good baseline
 # Sandboxing options to harden security

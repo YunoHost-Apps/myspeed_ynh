@@ -4,8 +4,8 @@ packaging_format = 2
 
 id = "myspeed"
 name = "MySpeed"
-description.en = "Explain in *a few (10~15) words* the purpose of the app or what it actually does (it is meant to give a rough idea to users browsing a catalog of 100+ apps)"
-description.fr = "Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'objectif est de donner une idée grossière pour des utilisateurs qui naviguent dans un catalogue de 100+ apps)"
+description.en = "Speed test analysis software"
+description.fr = "Logiciel d'analyse de test de vitesse"
 
 version = "1.0.9~ynh1"
 
@@ -14,18 +14,16 @@ maintainers = ["eric_G"]
 [upstream]
 license = "MIT"
 website = "https://myspeed.dev/"
-demo = "https://demo.example.com"
 admindoc = "https://docs.myspeed.dev/"
 code = "https://github.com/gnmyt/myspeed"
+fund = "https://ko-fi.com/gnmyt"
 
 [integration]
 yunohost = ">= 11.2.30"
 helpers_version = "2.1"
 architectures = "all"
-multi_instance = true
-
+multi_instance = false
 ldap = false
-
 sso = false
 
 disk = "50M"
