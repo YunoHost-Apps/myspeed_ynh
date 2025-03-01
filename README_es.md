@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # MySpeed para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/myspeed.svg)](https://ci-apps.yunohost.org/ci/apps/myspeed/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/myspeed.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/myspeed.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/myspeed)](https://ci-apps.yunohost.org/ci/apps/myspeed/)
+![Estado funcional](https://apps.yunohost.org/badge/state/myspeed)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/myspeed)
 
 [![Instalar MySpeed con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=myspeed)
 

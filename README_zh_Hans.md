@@ -5,7 +5,9 @@
 
 # YunoHost 上的 MySpeed
 
-[![集成程度](https://dash.yunohost.org/integration/myspeed.svg)](https://ci-apps.yunohost.org/ci/apps/myspeed/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/myspeed.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/myspeed.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/myspeed)](https://ci-apps.yunohost.org/ci/apps/myspeed/)
+![工作状态](https://apps.yunohost.org/badge/state/myspeed)
+![维护状态](https://apps.yunohost.org/badge/maintained/myspeed)
 
 [![使用 YunoHost 安装 MySpeed](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=myspeed)
 
