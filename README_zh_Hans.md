@@ -22,7 +22,7 @@ MySpeed is a speed test analysis software that stores the speed of your internet
 
 
 
-**分发版本：** 1.0.9~ynh1
+**分发版本：** 1.0.9~ynh2
 
 ## 截图
 

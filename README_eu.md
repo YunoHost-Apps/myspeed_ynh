@@ -22,7 +22,7 @@ MySpeed is a speed test analysis software that stores the speed of your internet
 
 
 
-**Paketatutako bertsioa:** 1.0.9~ynh1
+**Paketatutako bertsioa:** 1.0.9~ynh2
 
 ## Pantaila-argazkiak
 
