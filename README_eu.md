@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # MySpeed YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/myspeed.svg)](https://ci-apps.yunohost.org/ci/apps/myspeed/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/myspeed.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/myspeed.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/myspeed)](https://ci-apps.yunohost.org/ci/apps/myspeed/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/myspeed)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/myspeed)
 
 [![Instalatu MySpeed YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=myspeed)
 
@@ -20,7 +22,7 @@ MySpeed is a speed test analysis software that stores the speed of your internet
 
 
 
-**Paketatutako bertsioa:** 1.0.9~ynh1
+**Paketatutako bertsioa:** 1.0.9~ynh2
 
 ## Pantaila-argazkiak
 

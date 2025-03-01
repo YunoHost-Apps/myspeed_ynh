@@ -1,5 +1,5 @@
 [Unit]
-Description=MySpeed
+Description=MySpeed: Speed test analysis
 After=network.target
 
 [Service]

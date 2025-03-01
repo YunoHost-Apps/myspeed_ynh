@@ -5,7 +5,9 @@ Il NE doit PAS être modifié à la main.
 
 # MySpeed pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/myspeed.svg)](https://ci-apps.yunohost.org/ci/apps/myspeed/) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/myspeed.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/myspeed.maintain.svg)
+[![Niveau d’intégration](https://apps.yunohost.org/badge/integration/myspeed)](https://ci-apps.yunohost.org/ci/apps/myspeed/)
+![Statut du fonctionnement](https://apps.yunohost.org/badge/state/myspeed)
+![Statut de maintenance](https://apps.yunohost.org/badge/maintained/myspeed)
 
 [![Installer MySpeed avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=myspeed)
 
@@ -18,7 +20,7 @@ Il NE doit PAS être modifié à la main.
 
 MySpeed est un logiciel d'analyse de test de vitesse qui enregistre la vitesse de votre connexion Internet pendant 30 jours maximum. Cela peut également être utile si vous souhaitez savoir quand votre réseau peut subir des pertes ou si vous souhaitez vérifier si votre connexion Internet correspond aux valeurs réservées dans votre contrat.
 
-**Version incluse :** 1.0.9~ynh1
+**Version incluse :** 1.0.9~ynh2
 
 ## Captures d’écran
 

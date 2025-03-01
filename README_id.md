@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # MySpeed untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/myspeed.svg)](https://ci-apps.yunohost.org/ci/apps/myspeed/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/myspeed.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/myspeed.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/myspeed)](https://ci-apps.yunohost.org/ci/apps/myspeed/)
+![Status kerja](https://apps.yunohost.org/badge/state/myspeed)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/myspeed)
 
 [![Pasang MySpeed dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=myspeed)
 
@@ -20,7 +22,7 @@ MySpeed is a speed test analysis software that stores the speed of your internet
 
 
 
-**Versi terkirim:** 1.0.9~ynh1
+**Versi terkirim:** 1.0.9~ynh2
 
 ## Tangkapan Layar
 
