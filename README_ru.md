@@ -5,7 +5,9 @@
 
 # MySpeed для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/myspeed.svg)](https://ci-apps.yunohost.org/ci/apps/myspeed/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/myspeed.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/myspeed.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/myspeed)](https://ci-apps.yunohost.org/ci/apps/myspeed/)
+![Состояние работы](https://apps.yunohost.org/badge/state/myspeed)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/myspeed)
 
 [![Установите MySpeed с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=myspeed)
 

@@ -5,7 +5,9 @@ Hij mag NIET handmatig aangepast worden.
 
 # MySpeed voor Yunohost
 
-[![Integratieniveau](https://dash.yunohost.org/integration/myspeed.svg)](https://ci-apps.yunohost.org/ci/apps/myspeed/) ![Mate van functioneren](https://ci-apps.yunohost.org/ci/badges/myspeed.status.svg) ![Onderhoudsstatus](https://ci-apps.yunohost.org/ci/badges/myspeed.maintain.svg)
+[![Integratieniveau](https://apps.yunohost.org/badge/integration/myspeed)](https://ci-apps.yunohost.org/ci/apps/myspeed/)
+![Mate van functioneren](https://apps.yunohost.org/badge/state/myspeed)
+![Onderhoudsstatus](https://apps.yunohost.org/badge/maintained/myspeed)
 
 [![MySpeed met Yunohost installeren](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=myspeed)
 
