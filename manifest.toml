@@ -7,7 +7,7 @@ name = "MySpeed"
 description.en = "Speed test analysis software"
 description.fr = "Logiciel d'analyse de test de vitesse"
 
-version = "1.0.9~ynh1"
+version = "1.0.9~ynh2"
 
 maintainers = ["eric_G"]
 
