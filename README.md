@@ -11,7 +11,7 @@ It shall NOT be edited by hand.
 Speed test analysis software
 
 [![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://myspeed.dev/)
-[![Version: 1.0.9~ynh2](https://img.shields.io/badge/Version-1.0.9~ynh2-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/myspeed/)
+[![Version: 1.0.9~ynh3](https://img.shields.io/badge/Version-1.0.9~ynh3-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/myspeed/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/myspeed"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
