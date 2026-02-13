@@ -7,7 +7,7 @@ name = "MySpeed"
 description.en = "Speed test analysis software"
 description.fr = "Logiciel d'analyse de test de vitesse"
 
-version = "1.0.9~ynh2"
+version = "1.0.9~ynh3"
 
 maintainers = ["eric_G"]
 
@@ -19,7 +19,7 @@ code = "https://github.com/gnmyt/myspeed"
 fund = "https://ko-fi.com/gnmyt"
 
 [integration]
-yunohost = ">= 12.0.9"
+yunohost = ">= 12.1.39"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = false
@@ -59,3 +59,6 @@ ram.runtime = "50M"
 
     [resources.ports]
     main.default = 5216
+
+    [resources.nodejs]
+    version = "18"
