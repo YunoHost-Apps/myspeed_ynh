@@ -19,7 +19,7 @@ code = "https://github.com/gnmyt/myspeed"
 fund = "https://ko-fi.com/gnmyt"
 
 [integration]
-yunohost = ">= 12.1.17"
+yunohost = ">= 12.1.39"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = false
